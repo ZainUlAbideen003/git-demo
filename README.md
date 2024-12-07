@@ -33,3 +33,10 @@
 - git push
 
 
+## Branching
+
+- Step01: to check on which branch you'ready
+    - eg: `git branch`
+- Step02: to create and move to new branch
+    - eg: `git checkout -b task/development-branch`
+    - if branch already exist `git checkout task/development-branch`
